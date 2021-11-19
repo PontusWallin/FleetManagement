@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fleet Management</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="single_vehicle_activity_label">Single Vehicle</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="dateLabel">Date:</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="no_data_available">No data available</string>
+    <string name="trip_distance">Trip Distance:</string>
+
+</resources>
